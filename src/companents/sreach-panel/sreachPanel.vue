@@ -1,5 +1,6 @@
 <template>
         <form>
+            <h2 class="">kinoni qidirish</h2>
             <input type="text" class="form-control" placeholder="Kino nomi bilan qidiring">
         </form>
 </template>
